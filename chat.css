@@ -5,7 +5,7 @@
     }
     *,*::after,*::before{box-sizing: border-box;}
     body{
-      overflow: hidden;
+     
     }
     /*the following sections excludes all the styling of elements making the mobile phone*/
     p{font-family:Rubik ;}
